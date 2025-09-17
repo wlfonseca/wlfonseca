@@ -37,8 +37,7 @@ Organizo os testes por pastas `__test__` e `__mock__`, cuido da estrutura de pro
 ### 📫 Contato
 
 - Email: [wf.tecnologia@hotmail.com](mailto:wf.tecnologia@hotmail.com)
-- LinkedIn: [linkedin.com/in/wellington-fonseca](https://linkedin.com/in/wellington-fonseca) *(se tiver)*
-
+- LinkedIn: [linkedin.com/in/wellington-fonseca](https://linkedin.com/in/wellington-fonseca) 
 ---
 
 ### 🛠️ Alguns comandos que me definem:
