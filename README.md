@@ -1,63 +1,82 @@
 <h1 align="center">👋 Olá, eu sou o Wellington Fonseca</h1>
 
 <p align="center">
-  <strong>Software Engineer • Platform & Cloud • Security • AI Engineering</strong>
+  <strong>Software Engineer • Platform & Cloud • Security • Observability • AI Engineering</strong>
 </p>
 
 <p align="center">
-  🚀 Construindo sistemas resilientes, seguros e observáveis <br>
-  🔍 Especialista em troubleshooting, sustentação e confiabilidade operacional <br>
-  ☁️ Cloud • Observability • Security • AI • Backend Engineering
+  Construindo plataformas confiáveis, observáveis e seguras para ambientes críticos.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Observability-OpenTelemetry-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/APM-IBM%20Instana-052FAD?style=flat-square&logo=ibm" />
+  <img src="https://img.shields.io/badge/Security-SSDLC-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Engineering-7B61FF?style=flat-square" />
 </p>
 
 ---
 
-# 💼 Sobre mim
+# Executive Summary
 
 Sou engenheiro de software com atuação em desenvolvimento, sustentação e evolução de aplicações críticas em produção.
 
-Minha experiência está concentrada na construção de plataformas confiáveis, APIs escaláveis, observabilidade, segurança de aplicações e automação operacional.
+Minha experiência está concentrada em arquitetura backend, cloud computing, observabilidade, segurança de aplicações, engenharia de plataforma e confiabilidade operacional.
 
-Ao longo da minha trajetória participei de iniciativas envolvendo arquitetura de software, troubleshooting de incidentes, otimização de performance, observabilidade distribuída, cloud computing e práticas de desenvolvimento seguro.
+Atuo na investigação e resolução de incidentes, análise de causa raiz (RCA), otimização de performance, observabilidade distribuída, automação operacional e evolução contínua de ambientes produtivos.
 
-Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam disponíveis, monitoráveis, seguros e sustentáveis ao longo do tempo.
+Tenho especial interesse por sistemas distribuídos, plataformas de alta disponibilidade, Secure Software Development Lifecycle (SSDLC), observabilidade moderna e aplicações corporativas baseadas em Inteligência Artificial.
 
 ---
 
 # 🚀 Áreas de Especialização
 
-### ⚙️ Software Engineering
+## ⚙️ Software Engineering
 
-* Desenvolvimento Backend
-* APIs REST
-* Microsserviços
+* APIs REST e Microsserviços
+* NestJS e TypeScript
 * Arquitetura Orientada a Eventos
 * Integrações Corporativas
+* Arquitetura de Sistemas Distribuídos
 * Engenharia de Software Escalável
+* Performance e Resiliência
 
-### ☁️ Platform & Cloud Engineering
+---
+
+## ☁️ Platform & Cloud Engineering
 
 * AWS
 * Docker
 * Docker Swarm
 * Kubernetes
 * Linux
-* Automação Operacional
+* Nginx
 * CI/CD
-* Infraestrutura para Aplicações
+* GitLab CI
+* Automação Operacional
+* Ambientes de Alta Disponibilidade
 
-### 📊 Observability & Reliability
+---
+
+## 📊 Observability & Reliability
 
 * OpenTelemetry
+* IBM Instana
+* Grafana
+* Prometheus
+* Application Performance Monitoring (APM)
 * Distributed Tracing
-* Métricas
 * Logs Centralizados
-* Monitoramento
-* RCA (Root Cause Analysis)
+* Métricas e Dashboards
 * Troubleshooting de Produção
+* Root Cause Analysis (RCA)
 * Engenharia de Confiabilidade
 
-### 🔐 Application Security
+---
+
+## 🔐 Security Engineering
 
 * Secure Software Development Lifecycle (SSDLC)
 * OWASP Top 10
@@ -66,20 +85,37 @@ Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam dispon�
 * Content Security Policy (CSP)
 * Hardening de Containers
 * Gestão de Segredos
-* Rate Limiting
 * Segurança de APIs
-* Análise de Vulnerabilidades
+* Dependency Scanning
+* Vulnerability Management
+* Snyk
+* ClamAV
 
-### 🤖 AI Engineering
+---
 
-* Integração de LLMs em aplicações
+## 📡 Telecom Systems
+
+* Billing Platforms
+* Charging Platforms
+* Processamento de CDRs
+* Provisionamento de Serviços
+* APIs de Telecom
+* Sustentação de Sistemas Críticos
+* Investigação de Divergências de Consumo
+* Troubleshooting de Ambientes de Telecom
+
+---
+
+## 🤖 AI Engineering
+
+* Integração de LLMs em Aplicações
 * AI Agents
-* RAG (Retrieval-Augmented Generation)
-* Observabilidade para IA
+* Retrieval-Augmented Generation (RAG)
 * Langfuse
+* Observabilidade para IA
 * Prompt Engineering
 * Automação Assistida por IA
-* Soluções Corporativas com IA
+* Soluções Corporativas com Inteligência Artificial
 
 ---
 
@@ -92,13 +128,13 @@ Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam dispon�
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-## Banco de Dados
+### Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
 
-## Cloud & Infraestrutura
+### Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
@@ -107,13 +143,14 @@ Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam dispon�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 
-## Observabilidade
+### Observabilidade
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
+![IBM Instana](https://img.shields.io/badge/IBM%20Instana-052FAD?style=for-the-badge\&logo=ibm)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
 
-## Segurança & Qualidade
+### Segurança & Qualidade
 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge\&logo=snyk)
@@ -134,11 +171,15 @@ Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam dispon�
 
 ✅ OpenTelemetry
 
-✅ Application Security
+✅ IBM Instana
 
-✅ Secure Development
+✅ Security Engineering
+
+✅ Secure Development (SSDLC)
 
 ✅ AI Engineering
+
+✅ Telecom Systems
 
 ✅ Sustentação de Aplicações (AMS)
 
@@ -154,33 +195,96 @@ Meu foco é garantir que sistemas não apenas funcionem, mas permaneçam dispon�
 
 ---
 
+# 🏆 Projetos em Destaque
+
+### 🔭 Observability Platform
+
+Stack de observabilidade moderna utilizando OpenTelemetry, métricas, logs, traces distribuídos e APM.
+
+**Tecnologias:**
+
+* OpenTelemetry
+* IBM Instana
+* Grafana
+* Prometheus
+* Distributed Tracing
+
+---
+
+### ☁️ Platform Engineering Stack
+
+Infraestrutura para aplicações modernas utilizando containers e automação operacional.
+
+**Tecnologias:**
+
+* Docker
+* Docker Swarm
+* Kubernetes
+* Nginx
+* GitLab CI/CD
+
+---
+
+### 🔐 Secure Application Architecture
+
+Boas práticas e implementações voltadas para desenvolvimento seguro.
+
+**Tecnologias e práticas:**
+
+* OAuth 2.0
+* OpenID Connect
+* CSP
+* OWASP Top 10
+* Snyk
+* ClamAV
+
+---
+
+### 🤖 AI Engineering Lab
+
+Projetos relacionados a IA aplicada ao ambiente corporativo.
+
+**Tecnologias:**
+
+* LLMs
+* AI Agents
+* RAG
+* Langfuse
+* Observabilidade para IA
+
+---
+
+### 📡 Telecom Engineering
+
+Projetos e estudos voltados para sistemas de telecomunicações e ambientes críticos.
+
+**Temas:**
+
+* Billing
+* Charging
+* Processamento de CDRs
+* Provisionamento
+* Observabilidade
+* RCA
+
+---
+
 # 🔍 O que normalmente estou resolvendo
 
 ```text
 Incidentes críticos em produção
 Problemas de performance
 Locks e otimização de banco de dados
+Gargalos em arquiteturas distribuídas
 Falhas de integração
 Problemas de observabilidade
-Gargalos em arquiteturas distribuídas
+Análise de causa raiz (RCA)
 Automação de deploy e operações
-Confiabilidade e disponibilidade de serviços
+Confiabilidade operacional
 Segurança de aplicações
 Integração de IA em produtos e processos
+Ambientes críticos de telecomunicações
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wlfonseca&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlfonseca&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wlfonseca&hide_border=true" />
-</p>
 
 ---
 
@@ -188,7 +292,7 @@ Integração de IA em produtos e processos
 
 💼 LinkedIn: https://linkedin.com/in/wellington-fonseca
 
-📧 [wf.tecnologia@hotmail.com](mailto:wf.tecnologia@hotmail.com)
+📧 Email: [wf.tecnologia@hotmail.com](mailto:wf.tecnologia@hotmail.com)
 
 🐙 GitHub: https://github.com/wlfonseca
 
@@ -197,19 +301,22 @@ Integração de IA em produtos e processos
 # ⚙️ Alguns comandos que me representam
 
 ```bash
-# Encontrar a causa raiz
-EXPLAIN ANALYZE
-
 # Investigar produção
 kubectl logs -f
+
+# Encontrar gargalos
+EXPLAIN ANALYZE
 
 # Observar o comportamento do sistema
 otelcol
 
-# Automatizar processos
+# Correlacionar métricas, logs e traces
+instana
+
+# Automatizar operações
 gitlab-runner
 
-# Corrigir definitivamente
+# Resolver a causa raiz
 git commit -m "fix: root cause resolved"
 
 # Garantir que não aconteça novamente
